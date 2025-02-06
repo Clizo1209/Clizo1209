@@ -14,6 +14,6 @@
     <img src="https://badges.strrl.dev/repos/Clizo1209"/>
   </a>
   <a href="clizo.cn" target="_blank" rel="noreferrer">
-    <img src="https://badges.strrl.dev/visits/Clizo1209"/>
+    <img src="https://badges.strrl.dev/visits/Clizo1209/Clizo1209"/>
   </a>
 </p>
