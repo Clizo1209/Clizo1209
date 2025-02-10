@@ -3,9 +3,11 @@
 <h3>🌱 I am currently a student of <a href="https://ai.sdu.edu.cn/" target="_blank">School of Artificial Intelligence</a>, <a href="https://www.sdu.edu.cn/" target="_blank">Shandong University.</a>
 </h3>
 
+<!--
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Clizo1209&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true"/>
 </p>
+-->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Clizo1209&theme=github-compact&hide_border=true&area=true&custom_title=Clizo's%20Activity"/>
