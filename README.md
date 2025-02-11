@@ -12,8 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,c,cpp,python,java,php,unity,mysql,js,html,css,md" />
-  <img src="https://skillicons.dev/icons?i=ae,au,ps,pr,arduino,git,github,idea,pycharm,visualstudio,vscode,powershell" />
+  <img src="https://skillicons.dev/icons?perline=12&i=cs,c,cpp,python,java,php,unity,mysql,js,html,css,md,ae,au,ps,pr,arduino,git,github,idea,pycharm,visualstudio,vscode,powershell" />
 </p>
 
 <p align="center">
