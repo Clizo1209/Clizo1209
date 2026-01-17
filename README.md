@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?perline=12&i=cs,c,cpp,python,java,php,unity,mysql,js,html,css,md,ae,au,ps,pr,arduino,git,github,idea,pycharm,visualstudio,vscode,powershell,dotnet,gradle,maven,pytorch,ubuntu,docker,nodejs,apple,vue,sqlite" />
+  <img src="https://skillicons.dev/icons?perline=12&i=cs,c,cpp,python,java,php,unity,mysql,js,html,css,md,ae,au,ps,pr,arduino,git,github,idea,pycharm,visualstudio,vscode,powershell,dotnet,gradle,maven,pytorch,ubuntu,docker,nodejs,apple,vue,sqlite,blender" />
 </p>
 
 <p align="center">
